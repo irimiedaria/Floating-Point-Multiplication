@@ -1,0 +1,11 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+D:/FACULTATE/AN_3_SEM_1/SSC_PROIECT/FloatingPointMultiplication/FloatingPointMultiplication.srcs/sim_1/new/Multiplication_tb.vhd,1701700658,vhdl,,,,multiplication_tb,,,,,,,,
+D:/FACULTATE/AN_3_SEM_1/SSC_PROIECT/FloatingPointMultiplication/FloatingPointMultiplication.srcs/sources_1/new/Adder.vhd,1701685722,vhdl,D:/FACULTATE/AN_3_SEM_1/SSC_PROIECT/FloatingPointMultiplication/FloatingPointMultiplication.srcs/sources_1/new/Multiplicator.vhd,,,adder,,,,,,,,
+D:/FACULTATE/AN_3_SEM_1/SSC_PROIECT/FloatingPointMultiplication/FloatingPointMultiplication.srcs/sources_1/new/IEEE_Multiplication.vhd,1704719317,vhdl,,,,ieee_multiplication,,,,,,,,
+D:/FACULTATE/AN_3_SEM_1/SSC_PROIECT/FloatingPointMultiplication/FloatingPointMultiplication.srcs/sources_1/new/MultiplicandRegister.vhd,1701685334,vhdl,D:/FACULTATE/AN_3_SEM_1/SSC_PROIECT/FloatingPointMultiplication/FloatingPointMultiplication.srcs/sources_1/new/Multiplicator.vhd,,,multiplicandregister,,,,,,,,
+D:/FACULTATE/AN_3_SEM_1/SSC_PROIECT/FloatingPointMultiplication/FloatingPointMultiplication.srcs/sources_1/new/Multiplicator.vhd,1704720545,vhdl,D:/FACULTATE/AN_3_SEM_1/SSC_PROIECT/FloatingPointMultiplication/FloatingPointMultiplication.srcs/sources_1/new/IEEE_Multiplication.vhd,,,multiplicator,,,,,,,,
+D:/FACULTATE/AN_3_SEM_1/SSC_PROIECT/FloatingPointMultiplication/FloatingPointMultiplication.srcs/sources_1/new/MultiplierRegister.vhd,1701685526,vhdl,D:/FACULTATE/AN_3_SEM_1/SSC_PROIECT/FloatingPointMultiplication/FloatingPointMultiplication.srcs/sources_1/new/Multiplicator.vhd,,,multiplierregister,,,,,,,,
+D:/FACULTATE/AN_3_SEM_1/SSC_PROIECT/FloatingPointMultiplication/FloatingPointMultiplication.srcs/sources_1/new/ProductRegister.vhd,1701685607,vhdl,D:/FACULTATE/AN_3_SEM_1/SSC_PROIECT/FloatingPointMultiplication/FloatingPointMultiplication.srcs/sources_1/new/Multiplicator.vhd,,,productregister,,,,,,,,
